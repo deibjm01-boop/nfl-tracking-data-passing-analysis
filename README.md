@@ -34,17 +34,7 @@ Due to size restrictions, raw datasets are **not included in this repository**.
 ---
 
 # Project Pipeline
-NFL Tracking Data
-↓
-Data Processing with PySpark
-↓
-Feature Engineering
-↓
-Query-Based Analysis
-↓
-EPA-Based Insights
-↓
-Visualizations and Interpretation
+NFL Tracking Data -> Data Processing with PySpark -> Feature Engineering -> Query-Based Analysis -> EPA-Based Insights -> Visualizations and Interpretation
 
 ---
 
