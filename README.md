@@ -111,6 +111,8 @@ Completion probability drops significantly as more defenders occupy the passing 
 ---
 
 # Repository Structure
+
+```
 nfl-tracking-data-passing-analysis
 │
 ├── README.md
@@ -134,3 +136,4 @@ nfl-tracking-data-passing-analysis
 │
 └── data
     └ README.md
+```
